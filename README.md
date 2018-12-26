@@ -43,3 +43,19 @@ Now I can hopefully say that I've learnt how to use Git.
    1. Everything. It is basic Git functionality.
    2. I will push my own works to remotes on Github, and, when the time comes, will send/manage
       pull requests on larger projects, as well as interact with other developers.
+
+
+## Intro to HTML and CSS
+![Udacity](task_html_css_intro/ud001.png)
+![HTML](task_html_css_intro/html.png)
+![CSS](task_html_css_intro/css.png)
+1. *what was new to you*
+   1. Although I have experience with HTML, I've never used such tags as `<del>`, `<ins>`, `<mark>` or
+      definition list.
+   2. In CSS, the formula for calculating specificity.
+2. *what surprised you*
+   1. `<i>` and `<b>` have semantic definition!
+   2. In the very first CSS task on HTMLAcademy, they used `border-bottom` to draw a triangle!
+3. *what you intend to use in future*
+   1. It is all very basic, so I'll sure use everything.
+   2. Same. And especially helpful is knowing how cascading works.
