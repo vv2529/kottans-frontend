@@ -59,3 +59,19 @@ Now I can hopefully say that I've learnt how to use Git.
 3. *what you intend to use in future*
    1. It is all very basic, so I'll sure use everything.
    2. Same. And especially helpful is knowing how cascading works.
+
+
+## Responsive Web Design
+![Udacity](task_responsive_web_design/ud893.png)
+![Flexbox Froggy](task_responsive_web_design/flexboxfroggy.png)
+1. *what was new to you*
+   1. I've never approached responsive design properly, and now I finally know some common principles,
+      such as major/minor breakpoints for different screen sizes, making certain types of elements
+      responsive, conventional page layouts etc.
+   2. I've played Flexbox Froggy before (recompleted it anyways), so nothing new :)
+2. *what surprised you*
+   1. Designing responsively doesn't look that hard once I know how to approach it.
+   2. I was surprised how many tasks can be solved with ease using flexes.
+3. *what you intend to use in future*
+   1. From now on I'll develop every serious website with responsiveness in mind.
+   2. Flexes are incredibly powerful, I love them!
