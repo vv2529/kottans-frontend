@@ -75,3 +75,20 @@ Now I can hopefully say that I've learnt how to use Git.
 3. *what you intend to use in future*
    1. From now on I'll develop every serious website with responsiveness in mind.
    2. Flexes are incredibly powerful, I love them!
+
+## JS Basics
+![Udacity](task_js_basics/ud803.png)
+![freeCodeCamp](task_js_basics/freeCodeCamp.png)
+1. *what was new to you*
+   1. I knew JS before this task, so nothing new. However, it was useful to revise hoisting,
+      global/function/block scopes, function expressions/declarations etc.
+   2. Those tasks didn't take me too long to solve, but two of them simply couldn't run in the
+      tester (whereas in console it all worked fine). Anyway, I had fun pushing my skills to the limit!
+2. *what surprised you*
+   1. With `&&` and `||` one of the operands sometimes isn't even checked! That's an interesting
+      mechanic I never paid attention to.
+   2. With `RegExp` it is so much easier to work with strings!
+3. *what you intend to use in future*
+   1. The only unclear thing is named function expressions. I mean, they do nothing, why use them?
+      Other than that, JS basics are a must-know.
+   2. I'll probably come back to these algorythmic tasks, they are kinda fun and feel good to solve.
