@@ -92,3 +92,16 @@ Now I can hopefully say that I've learnt how to use Git.
    1. The only unclear thing is named function expressions. I mean, they do nothing, why use them?
       Other than that, JS basics are a must-know.
    2. I'll probably come back to these algorythmic tasks, they are kinda fun and feel good to solve.
+
+## DOM
+![Udacity](task_js_dom/ud117.png)
+![freeCodeCamp](task_js_dom/freeCodeCamp.png)
+1. *what was new to you*
+   1. Interfaces, event loop, event phases, event delegation, reflow & repaint, DocumentFragment.
+2. *what surprised you*
+   1. I used to believe I know DOM... And made so many discoveries in one day! Furthermore, there
+      are hundreds of interfaces, events properties and methods, all with their unique subtleties -
+      excited to work with that!
+3. *what you intend to use in future*
+   1. Now I know how to minimise reflows, optimise event handlers, prevent page freezing with
+      setTimeout() - I am in deep awe!
