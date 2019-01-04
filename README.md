@@ -11,7 +11,7 @@ Now I can hopefully say that I've learnt how to use Git.
 
 
 ## Linux CLI, and HTTP
-![finished](task_linux_cli/finished.png)
+[finished](task_linux_cli/finished.png)
 1. *what was new to you*
    1. I had known some command before, but the course helped me learn some other useful ones
       and get it all ingrained im my mind.
@@ -30,8 +30,8 @@ Now I can hopefully say that I've learnt how to use Git.
 
 
 ## Git Collaboration
-![lesson 1](task_git_collaboration/ud123.png)
-![lesson 2](task_git_collaboration/ud456.png)
+[lesson 1](task_git_collaboration/ud123.png)
+[lesson 2](task_git_collaboration/ud456.png)
 1. *what was new to you*
    1. Although I've finished a Git/Github course for Task 1, I learnt something from this course.
       Such as numerous flags for git log, or the .gitignore file.
@@ -46,9 +46,9 @@ Now I can hopefully say that I've learnt how to use Git.
 
 
 ## Intro to HTML and CSS
-![Udacity](task_html_css_intro/ud001.png)
-![HTML](task_html_css_intro/html.png)
-![CSS](task_html_css_intro/css.png)
+[Udacity](task_html_css_intro/ud001.png)
+[HTML](task_html_css_intro/html.png)
+[CSS](task_html_css_intro/css.png)
 1. *what was new to you*
    1. Although I have experience with HTML, I've never used such tags as `<del>`, `<ins>`, `<mark>` or
       definition list.
@@ -62,8 +62,8 @@ Now I can hopefully say that I've learnt how to use Git.
 
 
 ## Responsive Web Design
-![Udacity](task_responsive_web_design/ud893.png)
-![Flexbox Froggy](task_responsive_web_design/flexboxfroggy.png)
+[Udacity](task_responsive_web_design/ud893.png)
+[Flexbox Froggy](task_responsive_web_design/flexboxfroggy.png)
 1. *what was new to you*
    1. I've never approached responsive design properly, and now I finally know some common principles,
       such as major/minor breakpoints for different screen sizes, making certain types of elements
@@ -77,8 +77,8 @@ Now I can hopefully say that I've learnt how to use Git.
    2. Flexes are incredibly powerful, I love them!
 
 ## JS Basics
-![Udacity](task_js_basics/ud803.png)
-![freeCodeCamp](task_js_basics/freeCodeCamp.png)
+[Udacity](task_js_basics/ud803.png)
+[freeCodeCamp](task_js_basics/freeCodeCamp.png)
 1. *what was new to you*
    1. I knew JS before this task, so nothing new. However, it was useful to revise hoisting,
       global/function/block scopes, function expressions/declarations etc.
@@ -94,8 +94,8 @@ Now I can hopefully say that I've learnt how to use Git.
    2. I'll probably come back to these algorythmic tasks, they are kinda fun and feel good to solve.
 
 ## DOM
-![Udacity](task_js_dom/ud117.png)
-![freeCodeCamp](task_js_dom/freeCodeCamp.png)
+[Udacity](task_js_dom/ud117.png)
+[freeCodeCamp](task_js_dom/freeCodeCamp.png)
 1. *what was new to you*
    1. Interfaces, event loop, event phases, event delegation, reflow & repaint, DocumentFragment.
 2. *what surprised you*
