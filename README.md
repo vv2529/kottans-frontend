@@ -105,3 +105,12 @@ Now I can hopefully say that I've learnt how to use Git.
 3. *what you intend to use in future*
    1. Now I know how to minimise reflows, optimise event handlers, prevent page freezing with
       setTimeout() - I am in deep awe!
+
+## A Tiny JS World
+1. *what was new to you*
+   1. `Proxy` object is used to define custom behavior for basic operations like assignment.
+2. *what surprised you*
+   1. I spent more time uploading my project to Github than actually working on it... Aside from
+      `Proxy`, nothing really shocking.
+3. *what you intend to use in future*
+   1. Objects are a fundamental way of modelling complex systems, I'll work with them for sure.
