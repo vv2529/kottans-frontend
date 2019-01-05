@@ -94,6 +94,11 @@ Now I can hopefully say that I've learnt how to use Git.
    2. I'll probably come back to these algorythmic tasks, they are kinda fun and feel good to solve.
 
 ## DOM
+Practice: [Demo](https://vv2529.github.io/gh-pages-js-dom) |
+[Code base](https://github.com/vv2529/kottans-frontend/tree/master/task_js_dom/js-dom)
+
+Reviewed and approved by @AMashoshyna
+
 [Udacity](task_js_dom/ud117.png) |
 [freeCodeCamp](task_js_dom/freeCodeCamp.png)
 1. *what was new to you*
@@ -107,6 +112,10 @@ Now I can hopefully say that I've learnt how to use Git.
       setTimeout() - I am in deep awe!
 
 ## A Tiny JS World
+Practice: [Demo](https://vv2529.github.io/a-tiny-JS-world) |
+[Code base](https://github.com/vv2529/a-tiny-JS-world)
+
+Reviewed and approved by @OleksiyRudenko
 1. *what was new to you*
    1. `Proxy` object is used to define custom behavior for basic operations like assignment.
 2. *what surprised you*
