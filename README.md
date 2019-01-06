@@ -123,3 +123,31 @@ Reviewed and approved by @OleksiyRudenko
       `Proxy`, nothing really shocking.
 3. *what you intend to use in future*
    1. Objects are a fundamental way of modelling complex systems, I'll work with them for sure.
+
+## Object Oriented JS
+Practice: [Demo](https://vv2529.github.io/frontend-nanodegree-arcade-game) |
+[Code base](https://github.com/vv2529/frontend-nanodegree-arcade-game)
+
+Reviewed and approved by @OleksiyRudenko
+
+[Udacity](task_js_oop/ud015.png) |
+[Codewars](http://codewars.com/users/vv2529)
+1. *what was new to you*
+   1. Functional, classical and pseudoclassical approaches to OOP in Javascript.
+   2. Codewars offers a wide range of tasks of varying difficulty. Solving them is kinda fun, albeit
+      it took me some time to get used to the website's interface...
+   3. Frogger game was an interesting project to work on! I haven't done anything like this for a
+      somewhat long time.
+2. *what surprised you*
+   1. Even though prior to ES6 there was no in-built `class` syntax, people came up with such an
+      ingenious implementation using functions!
+   2. After submitting a solution, Codewars shows how other people solved it. Some of those
+      answers shocked me!
+   3. Although I was proud of the code I had written, after a review there turned out to be plentiful
+      flaws - not so much with the game logic, but with the code quality. This is a strong incentive
+      to start developing good coding habits right now.
+3. *what you intend to use in future*
+   1. I believe ES6 classes are better to use nowadays than functions.
+   2. Creative approach to solving problems is a useful skill indeed.
+   3. As the mentor suggested, we should write code that is maintainable, scalable, customizable and
+      human-readable.
