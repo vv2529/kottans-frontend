@@ -151,3 +151,19 @@ Reviewed and approved by @OleksiyRudenko
    2. Creative approach to solving problems is a useful skill indeed.
    3. As the mentor suggested, we should write code that is maintainable, scalable, customizable and
       human-readable.
+
+## OOP Exercise
+Practice: [Demo](https://vv2529.github.io/a-tiny-JS-world) |
+[Code base](https://github.com/vv2529/a-tiny-JS-world)
+
+Reviewed and approved by @OleksiyRudenko
+1. *what was new to you*
+   1. I decided to revise ES6 class syntax for this excercise. Also, from provided articles, I
+      learned about DRY, KISS, YAGNI principles, as well as S.O.L.I.D., which are good to bear in mind.
+2. *what surprised you*
+   1. `.toString()` method is automatically used to convert an object to a string! Also, although
+      implementing classes might take a lot of lines of code, using them is very simple and fits
+      logical models in my mind.
+3. *what you intend to use in future*
+   1. Classes are a perfect method to model various systems of all shapes and sizes, knowing a
+      proper way to work with them is a big advantage.
