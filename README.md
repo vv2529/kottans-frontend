@@ -167,3 +167,20 @@ Reviewed and approved by @OleksiyRudenko
 3. *what you intend to use in future*
    1. Classes are a perfect method to model various systems of all shapes and sizes, knowing a
       proper way to work with them is a big advantage.
+
+## Memory Pair Game
+Practice: [Demo](https://vv2529.github.io/memory-pair) |
+[Code base](https://github.com/vv2529/memory-pair)
+
+Reviewed and approved by @zonzujiro
+1. *what was new to you*
+   1. Flip animation using 3d transformations, one-line function for array shuffle,
+   `node.append(node1, node2, ...)` for adding multiple elements without `DocumentFragment`,
+   Prettier tool for maintaining code style.
+2. *what surprised you*
+   1. Long names for variables/functions can be better than short ones, since they are more descriptive.
+      I used to violate this notion all the time...
+3. *what you intend to use in future*
+   1. The larger a js file gets, the harder it is to read, so it might be a good idea to divide the
+      code into modules. Ultimately, there are lots of practices to keep your code maintainable,
+      which I still have to master.
