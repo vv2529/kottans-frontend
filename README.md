@@ -184,3 +184,20 @@ Reviewed and approved by @zonzujiro
    1. The larger a js file gets, the harder it is to read, so it might be a good idea to divide the
       code into modules. Ultimately, there are lots of practices to keep your code maintainable,
       which I still have to master.
+
+## Friends App
+Practice: [Demo](https://vv2529.github.io/friends-app) |
+[Code base](https://github.com/vv2529/friends-app)
+
+Reviewed and approved by @zonzujiro
+1. *what was new to you*
+   1. While building this application, I tried out a few useful things, such as adding box-shadow
+      and doubling it on hover for a sence of depth, or detecting less important content and hiding
+      it to save space on smaller viewports etc.
+2. *what surprised you*
+   1. When I get stuck, a good strategy is to back up and start from scratch: rewritten code will
+      probably be more efficient and concise.
+3. *what you intend to use in future*
+   1. I should get comfortable with promises, async/await, ES6 modules, choose my own style for
+      developing web apps, and perhaps focus on using Git frequently, instead of committing once
+      when the whole thing is already done.
